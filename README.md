@@ -54,8 +54,4 @@ Dark mode toggle
 Task category filters
 
 🙌 Credits
-
-Developed by [Maripi DurgaPrasad] as part of a Web Development Internship @Algonive.
-Special thanks to @Algonive for their continuous learning support and mentorship.
-
-#algonive #webdevelopment #internship #javascript #frontend #html #css #learningbydoing #projectshowcase
+M durgaprasad
